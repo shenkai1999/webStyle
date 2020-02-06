@@ -1,0 +1,11 @@
+G:\JavaProject\c#\RestfulWebServiceTest\bin\Debug\netcoreapp2.1\RestfulWebServiceTest.deps.json
+G:\JavaProject\c#\RestfulWebServiceTest\bin\Debug\netcoreapp2.1\RestfulWebServiceTest.runtimeconfig.json
+G:\JavaProject\c#\RestfulWebServiceTest\bin\Debug\netcoreapp2.1\RestfulWebServiceTest.runtimeconfig.dev.json
+G:\JavaProject\c#\RestfulWebServiceTest\bin\Debug\netcoreapp2.1\RestfulWebServiceTest.dll
+G:\JavaProject\c#\RestfulWebServiceTest\bin\Debug\netcoreapp2.1\RestfulWebServiceTest.pdb
+G:\JavaProject\c#\RestfulWebServiceTest\obj\Debug\netcoreapp2.1\RestfulWebServiceTest.csprojAssemblyReference.cache
+G:\JavaProject\c#\RestfulWebServiceTest\obj\Debug\netcoreapp2.1\RestfulWebServiceTest.csproj.CoreCompileInputs.cache
+G:\JavaProject\c#\RestfulWebServiceTest\obj\Debug\netcoreapp2.1\RestfulWebServiceTest.AssemblyInfoInputs.cache
+G:\JavaProject\c#\RestfulWebServiceTest\obj\Debug\netcoreapp2.1\RestfulWebServiceTest.AssemblyInfo.cs
+G:\JavaProject\c#\RestfulWebServiceTest\obj\Debug\netcoreapp2.1\RestfulWebServiceTest.dll
+G:\JavaProject\c#\RestfulWebServiceTest\obj\Debug\netcoreapp2.1\RestfulWebServiceTest.pdb

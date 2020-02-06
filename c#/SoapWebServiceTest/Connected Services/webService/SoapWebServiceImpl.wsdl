@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:intf="http://server" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:impl="http://server" targetNamespace="http://server" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://server">
+      <xsd:element name="IDNum" type="xsd:string" />
+      <xsd:element name="IDcardCheckReturn" type="xsd:string" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IDcardCheckResponse">
+    <wsdl:part name="IDcardCheckReturn" element="impl:IDcardCheckReturn" />
+  </wsdl:message>
+  <wsdl:message name="IDcardCheckRequest">
+    <wsdl:part name="IDNum" element="impl:IDNum" />
+  </wsdl:message>
+  <wsdl:portType name="SoapWebServiceImpl">
+    <wsdl:operation name="IDcardCheck" parameterOrder="IDNum">
+      <wsdl:input name="IDcardCheckRequest" message="impl:IDcardCheckRequest" />
+      <wsdl:output name="IDcardCheckResponse" message="impl:IDcardCheckResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SoapWebServiceImplSoapBinding" type="impl:SoapWebServiceImpl">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="IDcardCheck">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="IDcardCheckRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="IDcardCheckResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SoapWebServiceImplService">
+    <wsdl:port name="SoapWebServiceImpl" binding="impl:SoapWebServiceImplSoapBinding">
+      <wsdlsoap:address location="http://localhost:8080//services/server/SoapWebServiceImpl" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

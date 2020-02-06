@@ -1,0 +1,10 @@
+G:\JavaProject\c#\SoapWebServiceTest\bin\Debug\SoapWebServiceTest.exe.config
+G:\JavaProject\c#\SoapWebServiceTest\bin\Debug\SoapWebServiceTest.exe
+G:\JavaProject\c#\SoapWebServiceTest\bin\Debug\SoapWebServiceTest.pdb
+G:\JavaProject\c#\SoapWebServiceTest\obj\Debug\SoapWebServiceTest.csprojAssemblyReference.cache
+G:\JavaProject\c#\SoapWebServiceTest\obj\Debug\SoapWebServiceTest.Form1.resources
+G:\JavaProject\c#\SoapWebServiceTest\obj\Debug\SoapWebServiceTest.Properties.Resources.resources
+G:\JavaProject\c#\SoapWebServiceTest\obj\Debug\SoapWebServiceTest.csproj.GenerateResource.cache
+G:\JavaProject\c#\SoapWebServiceTest\obj\Debug\SoapWebServiceTest.csproj.CoreCompileInputs.cache
+G:\JavaProject\c#\SoapWebServiceTest\obj\Debug\SoapWebServiceTest.exe
+G:\JavaProject\c#\SoapWebServiceTest\obj\Debug\SoapWebServiceTest.pdb
