@@ -1,0 +1,11 @@
+D:\c#项目\Calculator\bin\Debug\Calculator.exe.config
+D:\c#项目\Calculator\bin\Debug\Calculator.exe
+D:\c#项目\Calculator\bin\Debug\Calculator.pdb
+D:\c#项目\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\c#项目\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\c#项目\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\c#项目\Calculator\obj\Debug\Calculator.exe
+D:\c#项目\Calculator\obj\Debug\Calculator.pdb
+D:\c#项目\Calculator\bin\Debug\Achieve.dll
+D:\c#项目\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+D:\c#项目\Calculator\obj\Debug\Calculator.Form1.resources

@@ -1,0 +1,16 @@
+D:\c#项目\Database\Database\bin\Debug\Database.exe.config
+D:\c#项目\Database\Database\bin\Debug\Database.exe
+D:\c#项目\Database\Database\bin\Debug\Database.pdb
+D:\c#项目\Database\Database\bin\Debug\MySql.Data.dll
+D:\c#项目\Database\Database\bin\Debug\Google.Protobuf.dll
+D:\c#项目\Database\Database\bin\Debug\MySql.Data.xml
+D:\c#项目\Database\Database\obj\Debug\Database.csprojAssemblyReference.cache
+D:\c#项目\Database\Database\obj\Debug\Database.Form1.resources
+D:\c#项目\Database\Database\obj\Debug\Database.Form2.resources
+D:\c#项目\Database\Database\obj\Debug\Database.Form3.resources
+D:\c#项目\Database\Database\obj\Debug\Database.Form4.resources
+D:\c#项目\Database\Database\obj\Debug\Database.Properties.Resources.resources
+D:\c#项目\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+D:\c#项目\Database\Database\obj\Debug\Database.csproj.CopyComplete
+D:\c#项目\Database\Database\obj\Debug\Database.exe
+D:\c#项目\Database\Database\obj\Debug\Database.pdb

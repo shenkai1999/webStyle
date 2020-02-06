@@ -1,0 +1,5 @@
+D:\c#项目\Achieve\bin\Debug\Achieve.dll
+D:\c#项目\Achieve\bin\Debug\Achieve.pdb
+D:\c#项目\Achieve\obj\Debug\Achieve.csprojAssemblyReference.cache
+D:\c#项目\Achieve\obj\Debug\Achieve.dll
+D:\c#项目\Achieve\obj\Debug\Achieve.pdb

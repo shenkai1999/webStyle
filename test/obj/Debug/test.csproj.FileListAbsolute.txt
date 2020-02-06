@@ -1,0 +1,6 @@
+D:\c#项目\test\bin\Debug\test.exe.config
+D:\c#项目\test\bin\Debug\test.exe
+D:\c#项目\test\bin\Debug\test.pdb
+D:\c#项目\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\c#项目\test\obj\Debug\test.exe
+D:\c#项目\test\obj\Debug\test.pdb
